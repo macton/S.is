@@ -1,0 +1,22 @@
+{
+  "name": "s.is",
+  "version": "1.0.0",
+  "description": "S.is - Boolean tests",
+  "main": "s.is.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.is.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.is/issues"
+  },
+  "homepage": "https://github.com/macton/S.is#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
